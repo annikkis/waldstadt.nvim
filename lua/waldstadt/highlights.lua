@@ -375,7 +375,7 @@ M.setup = function()
     NvimTreePopup = { link = "NvimTreeNormal" },
     NvimTreeSignColumn = { link = "NvimTreeNormal" },
     NvimTreeIndentMarker = { fg = palette.bg3 },
-    NvimTreeRootFolder = { fg = palette.purple },
+    NvimTreeRootFolder = { link = "Title" },
     NvimTreeSymlink = { fg = palette.aqua },
     NvimTreeExecFile = { fg = palette.green },
     NvimTreeImageFile = { fg = palette.pink },
