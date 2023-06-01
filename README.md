@@ -11,7 +11,7 @@ Neovim 0.8.0+
 Using `lazy.nvim`
 
 ```lua
-{ "annikkis/waldstadt" }
+{ "annikkis/waldstadt.nvim" }
 ```
 
 # Basic Usage
