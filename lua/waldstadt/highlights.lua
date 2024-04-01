@@ -447,6 +447,9 @@ M.setup = function()
     -- fidget
     FidgetTitle = { link = "Title" },
     FidgetTask = { link = "NonText" },
+    -- typescript/typescriptreact
+    typescriptParens = { link = "TSPunctuationBracket" },
+    typescriptBraces = { link = "TSPunctuationBracket" },
   }
 
   for key, value in pairs(config.overrides.highlights) do
